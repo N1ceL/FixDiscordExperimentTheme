@@ -113,7 +113,8 @@ html.newBrand
 	margin-right: -48px;
 	margin-bottom: -2px;
 }
-.message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover .container-1ov-mD {
+
+/*.message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover .container-1ov-mD {
 	background-color: #32353B;
 }
 
@@ -121,6 +122,12 @@ html.newBrand
 	background-color: #32353B;
 }
 
+.message-2qnXI6.cozyMessage-3V1Y8y.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover .container-1ov-mD {
+	background-color: #32353B;
+}*/
+.zalgo-jN1Ica:hover .container-1ov-mD {
+	background-color: #32353B;
+}
 
 /* Fix ugly tags style*/
 
@@ -148,3 +155,6 @@ html.newBrand
 #app-mount [data-list-item-id="guildsnav___home"]>div {
 	color: transparent;
 }
+
+
+message-2qnXI6 cozyMessage-3V1Y8y wrapper-2a6GCs cozy-3raOZG zalgo-jN1Ica
