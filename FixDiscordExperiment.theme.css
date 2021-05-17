@@ -3,7 +3,7 @@
  * @namespace    OldDiscordTheme
  * @description  This theme was created to backup old discord theme
  * @author       NiceL
- * @version      0.3
+ * @version      0.4
  * @source	 https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
 **/
 
@@ -158,8 +158,8 @@ html.newBrand
 .wordmark-2iDDfm {
     color: transparent;
     margin-top: 2px;
-    margin-left: 2px;
-    width: 35px;
-    height: 10px;
-    background: url(https://i.imgur.com/O6YnKoS.png);
+    margin-left: 4px;
+    width: 46px;
+    height: 14px;
+    background: url(https://i.imgur.com/cumMfHG.png);
 }
