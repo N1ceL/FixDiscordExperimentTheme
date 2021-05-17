@@ -117,17 +117,16 @@ html.newBrand
 /*.message-2qnXI6.cozyMessage-3V1Y8y.mentioned-xhSam7.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover .container-1ov-mD {
 	background-color: #32353B;
 }
-
 .message-2qnXI6.cozyMessage-3V1Y8y.groupStart-23k01U.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover .container-1ov-mD {
 	background-color: #32353B;
 }
-
 .message-2qnXI6.cozyMessage-3V1Y8y.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover .container-1ov-mD {
 	background-color: #32353B;
 }*/
 .zalgo-jN1Ica:hover .container-1ov-mD {
 	background-color: #32353B;
 }
+
 
 /* Fix ugly tags style*/
 
@@ -147,11 +146,19 @@ html.newBrand
 /* Fix ugly logo*/
 
 .homeIcon-FuNwkv {
-	width: 26px;
-	height: 26px;
-	background: url(https://i.imgur.com/GbripRZ.png);
+    color: transparent;
+    width: 26px;
+    height: 26px;
+    background: url(https://i.imgur.com/GbripRZ.png);
 }
 
-#app-mount [data-list-item-id="guildsnav___home"]>div {
-	color: transparent;
+/* Fix ugly name*/
+
+.wordmark-2iDDfm {
+    color: transparent;
+    margin-top: 2px;
+    margin-left: 2px;
+    width: 35px;
+    height: 10px;
+    background: url(https://i.imgur.com/O6YnKoS.png);
 }
