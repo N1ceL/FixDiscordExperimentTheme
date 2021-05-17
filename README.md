@@ -4,7 +4,7 @@ This theme was created to fix discord new experiment theme and backup old discor
 # Whats changed?
 
 - New ugly logo -> Old logo
-- New ugly top text -> Old top text
+- New ugly top "discord" text style -> Old top "discord" text style
 - New ugly purple colors -> Old blue colors
 - New ugly tags colors -> Old tags colors
 - New ugly reactions style, colors -> Old reactions style, colors
