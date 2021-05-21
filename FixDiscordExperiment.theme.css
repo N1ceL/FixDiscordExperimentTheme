@@ -133,7 +133,7 @@ html.newBrand
 .theme-dark
 .wrapper-3WhCwL
 {
-	color: var(--brand-experiment-530);
+	color: var(--brand-experiment);
 	background: var(--brand-experiment-15a);
 }
 .theme-dark
@@ -141,7 +141,6 @@ html.newBrand
 {
 	background: var(--brand-experiment-25a);
 }
-
 
 /* Fix ugly logo*/
 
