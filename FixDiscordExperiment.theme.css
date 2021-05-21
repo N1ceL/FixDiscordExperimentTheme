@@ -3,7 +3,7 @@
  * @namespace    OldDiscordTheme
  * @description  This theme was created to backup old discord theme
  * @author       NiceL
- * @version      0.4
+ * @version      0.5
  * @source	 https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
 **/
 
@@ -61,7 +61,7 @@ html.newBrand
 	--brand-experiment-85a:rgba(114,137,218,0.85);
 	--brand-experiment-90a:rgba(114,137,218,0.9);
 	--brand-experiment-95a:rgba(114,137,218,0.95);
-	--font-display: 0;
+	--font-display: Ginto,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 
