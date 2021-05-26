@@ -3,7 +3,7 @@
  * @namespace    OldDiscordTheme
  * @description  This theme was created to backup old discord theme
  * @author       NiceL
- * @version      0.5
+ * @version      0.6
  * @source	 https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
 **/
 
@@ -80,26 +80,29 @@ html.newBrand
 
 .reaction-1hd86g 
 {
-	background: #424448;
+	border-radius: .2rem;
+	background: #71778222;
 	border: 0;
 }
 .reaction-1hd86g:hover
 {
-	background: #494c52;
+	background: #71778233;
 	border: 0;
 }
 
 .reaction-1hd86g.reactionMe-wv5HKu 
 {
-	background: #49526B;
+	background: #6375b044;
 	border: 0;
 }
 .reaction-1hd86g.reactionMe-wv5HKu:hover
 {
-	background: #515c7a;
+	background: #6375b055;
 	border: 0;
 }
-
+.reaction-1hd86g.reactionMe-wv5HKu .reactionCount-2mvXRV {
+	color: var(--brand-experiment-400);
+}
 
 /* Fix ugly reactions position (test, im not sure about stable)*/
 
@@ -126,7 +129,6 @@ html.newBrand
 .zalgo-jN1Ica:hover .container-1ov-mD {
 	background-color: #32353B;
 }
-
 
 /* Fix ugly tags style*/
 
