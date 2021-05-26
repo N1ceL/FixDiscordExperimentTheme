@@ -10,7 +10,7 @@ This theme was created to fix discord new experiment theme and backup old discor
 - New ugly reactions style, colors -> Old reactions style, colors
 - New ugly reactions position-> Old reactions position
 - New ugly font -> Old font
-
+- New app logo -> Old app logo
 
 
 # How to use it?
