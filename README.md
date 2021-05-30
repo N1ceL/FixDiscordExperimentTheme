@@ -11,7 +11,7 @@ This theme was created to fix discord new experiment theme and backup old discor
 - New ugly reactions position-> Old reactions position
 - New ugly font -> Old font
 - New app logo -> Old app logo
-
+- New profile banners -> Old profile banners
 
 # How to use it?
 
