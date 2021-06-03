@@ -3,7 +3,7 @@
  * @namespace    OldDiscordTheme
  * @description  This theme was created to backup old discord theme
  * @author       NiceL
- * @version      0.7
+ * @version      0.8
  * @source	 https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
 **/
 
@@ -270,12 +270,12 @@ html.newBrand
     text-align: center;
 }
 .avatarWrapperNormal-2tu8Ts.avatarWrapper-1-5NA0.avatarPositionNormal-1CZUPk {
-	margin-left: 28%;
+	margin-left: 25%;
 }
 .headerTop-2y3V6H {
 	background-color: var(--background-tertiary);
 }
 .avatar-22FtUu {
-	border: 0;
-	margin-top: 8px;
+    border: 6px solid #00000000;
+	background-color: #00000000;
 }
