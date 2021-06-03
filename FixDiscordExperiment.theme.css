@@ -233,22 +233,22 @@ html.newBrand
 /* Fix ugly logo*/
 
 .homeIcon-FuNwkv {
-    color: transparent;
-    width: 26px;
-    height: 26px;
-    background: url(https://i.imgur.com/GbripRZ.png);
+    	color: transparent;
+    	width: 26px;
+    	height: 26px;
+    	background: url(https://i.imgur.com/GbripRZ.png);
 }
 
 
 /* Fix ugly name*/
 
 .wordmark-2iDDfm {
-    color: transparent;
-    margin-top: 2px;
-    margin-left: 4px;
-    width: 46px;
-    height: 14px;
-    background: url(https://i.imgur.com/cumMfHG.png);
+    	color: transparent;
+    	margin-top: 2px;
+    	margin-left: 4px;
+    	width: 46px;
+    	height: 14px;
+    	background: url(https://i.imgur.com/cumMfHG.png);
 }
 
 
@@ -264,10 +264,10 @@ html.newBrand
 	display: none;
 }
 .headerText-2WJ44e.userSelectText-1o1dQ7 {
-    text-align: center;
+    	text-align: center;
 }
 .customStatus-3NamXG {
-    text-align: center;
+    	text-align: center;
 }
 .avatarWrapperNormal-2tu8Ts.avatarWrapper-1-5NA0.avatarPositionNormal-1CZUPk {
 	margin-left: 25%;
@@ -276,6 +276,6 @@ html.newBrand
 	background-color: var(--background-tertiary);
 }
 .avatar-22FtUu {
-    border: 6px solid #00000000;
+    	border: 6px solid #00000000;
 	background-color: #00000000;
 }
