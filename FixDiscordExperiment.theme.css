@@ -3,7 +3,7 @@
  * @namespace    OldDiscordTheme
  * @description  This theme was created to backup old discord theme
  * @author       NiceL
- * @version      0.8
+ * @version      0.9
  * @source	 https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
 **/
 
@@ -233,49 +233,46 @@ html.newBrand
 /* Fix ugly logo*/
 
 .homeIcon-FuNwkv {
-    	color: transparent;
-    	width: 26px;
-    	height: 26px;
-    	background: url(https://i.imgur.com/GbripRZ.png);
+    color: transparent;
+    width: 26px;
+    height: 26px;
+    background: url(https://i.imgur.com/GbripRZ.png);
 }
 
 
 /* Fix ugly name*/
 
 .wordmark-2iDDfm {
-    	color: transparent;
-    	margin-top: 2px;
-    	margin-left: 4px;
-    	width: 46px;
-    	height: 14px;
-    	background: url(https://i.imgur.com/cumMfHG.png);
+    color: transparent;
+    margin-top: 2px;
+    margin-left: 4px;
+    width: 46px;
+    height: 14px;
+    background: url(https://i.imgur.com/cumMfHG.png);
 }
 
 
-/* Fix profile banner */
+/* Fix Profile Banner */
 
 .profileBanner-33-uE1.banner-2QYc2d {
-	background-color: var(--background-tertiary) !important;
-}
-.userPopout-3XzG_A {
-	width: 250px !important;
-}
-.profileBadges-1dm1_q {
-	display: none;
-}
-.headerText-2WJ44e.userSelectText-1o1dQ7 {
-    	text-align: center;
-}
-.customStatus-3NamXG {
-    	text-align: center;
+	background-color: var(--background-floating) !important;
 }
 .avatarWrapperNormal-2tu8Ts.avatarWrapper-1-5NA0.avatarPositionNormal-1CZUPk {
 	margin-left: 25%;
 }
-.headerTop-2y3V6H {
-	background-color: var(--background-tertiary);
+.avatarWrapperNormal-2tu8Ts.avatarWrapper-1-5NA0.avatarPositionPremium-1QenYe {
+	margin-left: 25%;
 }
-.avatar-22FtUu {
-    	border: 6px solid #00000000;
-	background-color: #00000000;
+.userPopout-3XzG_A {
+	width: 250px !important;
+}
+.container-q03LZO.profileBadges-3cJaE1.colored-1armap {
+	display: none;
+}
+
+.headerTagNoNickname-1VyQza.headerTag-16AlQV.nameTag-m8r81H {
+    text-align: center;
+}
+.customStatus-3NamXG {
+    text-align: center;
 }
