@@ -3,7 +3,7 @@
  * @namespace    OldDiscordTheme
  * @description  This theme was created to backup old discord theme
  * @author       NiceL
- * @version      0.9
+ * @version      1.0
  * @source	 https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
 **/
 
@@ -254,16 +254,17 @@ html.newBrand
 
 /* Fix Profile Banner */
 
-.profileBanner-33-uE1.banner-2QYc2d {
+.banner-2QYc2d.popoutBanner-19WKGg {
 	background-color: var(--background-floating) !important;
 }
-.avatarWrapperNormal-2tu8Ts.avatarWrapper-1-5NA0.avatarPositionNormal-1CZUPk {
+.avatarWrapperNormal-26WQIb.avatarWrapper-3r9PdD.avatarPositionNormal-aZjAsn {
 	margin-left: 25%;
 }
-.avatarWrapperNormal-2tu8Ts.avatarWrapper-1-5NA0.avatarPositionPremium-1QenYe {
+.avatarWrapperNormal-26WQIb.avatarWrapper-3r9PdD.avatarPositionPremium-3We5Ho {
 	margin-left: 25%;
 }
-.userPopout-3XzG_A {
+
+.userPopout-xaxa6l {
 	width: 250px !important;
 }
 .container-q03LZO.profileBadges-3cJaE1.colored-1armap {
@@ -273,6 +274,6 @@ html.newBrand
 .headerTagNoNickname-1VyQza.headerTag-16AlQV.nameTag-m8r81H {
     text-align: center;
 }
-.customStatus-3NamXG {
+.customStatus-oN4ZZY {
     text-align: center;
 }
