@@ -3,7 +3,7 @@
  * @namespace    OldDiscordTheme
  * @description  This theme was created to backup old discord theme
  * @author       NiceL
- * @version      1.1
+ * @version      1.2
  * @source	 https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
 **/
 
@@ -252,7 +252,7 @@ html.newBrand
 }
 
 
-/* Fix Profile Banner */
+/* Fix Profile Banner 1 */
 
 .banner-2QYc2d.popoutBanner-19WKGg {
 	background-color: var(--background-floating) !important;
@@ -276,6 +276,21 @@ html.newBrand
 }
 .customStatus-oN4ZZY {
     text-align: center;
+}
+
+
+/* Fix Profile Banner 2 */
+
+.banner-2QYc2d.profileBanner-33-uE1 {
+	background-color: var(--background-floating) !important;
+	height: 80px;
+}
+.headerTop-547GTz {
+	padding: 0px 16px 0 160px;
+}
+
+.nameTagNoCustomStatus-3IWmZC {
+    padding-top: 20px;
 }
 
 
