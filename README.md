@@ -12,6 +12,7 @@ This theme was created to fix discord new experiment theme and backup old discor
 - New ugly font -> Old font
 - New app logo -> Old app logo
 - New profile banners -> Old profile banners
+- Deleted strange "wave" feature in DM's
 
 # How to use it?
 
