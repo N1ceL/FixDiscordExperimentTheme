@@ -3,7 +3,7 @@
  * @namespace    OldDiscordTheme
  * @description  This theme was created to backup old discord theme
  * @author       NiceL
- * @version      1.2
+ * @version      1.4
  * @source	 https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
 **/
 
@@ -96,7 +96,8 @@
 */
 
 .newBrand,
-html.newBrand
+html.newBrand,
+html
 {
 	--brand-experiment-100:#f8f9fd;
 	--brand-experiment-130:#f2f4fc;
@@ -263,11 +264,14 @@ html.newBrand
 .avatarWrapperNormal-26WQIb.avatarWrapper-3r9PdD.avatarPositionPremium-3We5Ho {
 	margin-left: 25%;
 }
+.headerNormal-3KXFBt {
+    margin-left: -10%;
+}
 
 .userPopout-xaxa6l {
 	width: 250px !important;
 }
-.container-q03LZO.profileBadges-3cJaE1.colored-1armap {
+.profileBadges-ohc0Vu {
 	display: none;
 }
 
@@ -285,13 +289,13 @@ html.newBrand
 	background-color: var(--background-floating) !important;
 	height: 80px;
 }
-.headerTop-547GTz {
+/*.headerTop-547GTz {
 	padding: 0px 16px 0 160px;
 }
 
 .nameTagNoCustomStatus-3IWmZC {
     padding-top: 20px;
-}
+}*/
 
 
 /* Delete wave feature shit */
