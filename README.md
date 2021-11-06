@@ -26,4 +26,3 @@ This theme was created to fix discord new experiment theme and backup old discor
 
 # Discord was the perfect of modern design, but the new designers seem to be colorblind with very poor vision.
 
-![image](https://user-images.githubusercontent.com/41979846/118303359-b1214900-b528-11eb-8a46-1a2ac3059829.png)
