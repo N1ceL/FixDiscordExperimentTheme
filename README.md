@@ -23,6 +23,3 @@ This theme was created to fix discord new experiment theme and backup old discor
 - Move .css theme to this folder.
 - In "Discord -> Settings -> BetterDiscord -> Themes" click to theme checkbox (enable).
 - Done, theme installed!
-
-# Discord was the perfect of modern design, but the new designers seem to be colorblind with very poor vision.
-
