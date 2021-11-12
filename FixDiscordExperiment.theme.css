@@ -3,7 +3,7 @@
  * @namespace    OldDiscordTheme
  * @description  This theme was created to backup old discord theme
  * @author       NiceL
- * @version      1.7
+ * @version      1.8
  * @source https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
  * @updateUrl https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
 **/
@@ -12,7 +12,7 @@
 @import url("https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css");
 
 
-/* Fix ugly purple colors*/
+/* Fix ugly purple colors */
 
 /*
 .theme-dark, .theme-light {
