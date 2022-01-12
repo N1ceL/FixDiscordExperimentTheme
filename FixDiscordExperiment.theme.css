@@ -12,7 +12,7 @@
 @import url("https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css");
 
 
-/* Fix ugly purple colors */
+/* Fix ugly purple colors*/
 
 /*
 .theme-dark, .theme-light {
@@ -155,46 +155,46 @@ html
 
 /* Fix ugly reactions style*/
 
-/*.reaction-1hd86g 
+/*.reaction-2A2y9y 
 {
 	background: rgba(0,0,0,0.08);
 	border: 0;
 }
-.reaction-1hd86g.reactionMe-wv5HKu 
+.reaction-2A2y9y.reactionMe-3I9gFK 
 {
 	background: rgba(114,137,218,0.1);
 	border: 0;
 }*/
 
-.reaction-1hd86g 
+.reaction-2A2y9y 
 {
 	border-radius: .2rem;
 	background: #71778222;
 	border: 0;
 }
-.reaction-1hd86g:hover
+.reaction-2A2y9y:hover
 {
 	background: #71778233;
 	border: 0;
 }
 
-.reaction-1hd86g.reactionMe-wv5HKu 
+.reaction-2A2y9y.reactionMe-3I9gFK 
 {
 	background: #6375b044;
 	border: 0;
 }
-.reaction-1hd86g.reactionMe-wv5HKu:hover
+.reaction-2A2y9y.reactionMe-3I9gFK:hover
 {
 	background: #6375b055;
 	border: 0;
 }
-.reaction-1hd86g.reactionMe-wv5HKu .reactionCount-2mvXRV {
+.reaction-2A2y9y.reactionMe-3I9gFK .reactionCount-1zkLcN {
 	color: var(--brand-experiment-400);
 }
 
 /* Fix ugly reactions position (test, im not sure about stable)*/
 
-.container-1ov-mD {
+.container-2sjPya {
 	background-color: var(--background-primary);
 	padding-top: 4px;
 	padding-bottom: 4px;
@@ -214,27 +214,27 @@ html
 .message-2qnXI6.cozyMessage-3V1Y8y.wrapper-2a6GCs.cozy-3raOZG.zalgo-jN1Ica:hover .container-1ov-mD {
 	background-color: #32353B;
 }*/
-.zalgo-jN1Ica:hover .container-1ov-mD {
+.zalgo-26OfGz:hover .container-2sjPya {
 	background-color: #32353B;
 }
 
 /* Fix ugly tags style*/
 
 .theme-dark
-.wrapper-3WhCwL
+.wrapper-1ZcZW-
 {
 	color: var(--brand-experiment);
 	background: var(--brand-experiment-15a);
 }
 .theme-dark
-.wrapper-3WhCwL:hover
+.wrapper-1ZcZW-:hover
 {
 	background: var(--brand-experiment-25a);
 }
 
 /* Fix ugly logo*/
 
-.homeIcon-AaowEC {
+.homeIcon-r0w4ny {
     color: transparent;
     width: 26px;
     height: 26px;
@@ -244,7 +244,7 @@ html
 
 /* Fix ugly name*/
 
-.wordmark-2iDDfm {
+.wordmark-2u86JB {
     color: transparent;
     margin-top: 2px;
     margin-left: 4px;
@@ -256,37 +256,38 @@ html
 
 /* Fix Profile Banner 1 */
 
-.banner-2QYc2d.popoutBanner-19WKGg {
+.banner-1YaD3N.popoutBanner-3cqRD9 {
 	background-color: var(--background-floating) !important;
 }
-.avatarWrapperNormal-26WQIb.avatarWrapper-3r9PdD.avatarPositionNormal-aZjAsn {
+/*
+.avatarWrapperNormal-ahVUaC.avatarWrapper-eenWra.avatarPositionNormal-2jWoC2 {
 	margin-left: 25%;
 }
-.avatarWrapperNormal-26WQIb.avatarWrapper-3r9PdD.avatarPositionPremium-3We5Ho {
+.avatarWrapperNormal-ahVUaC.avatarWrapper-eenWra.avatarPositionPremium-3We5Ho {
 	margin-left: 25%;
 }
 .headerNormal-3KXFBt {
     margin-left: -10%;
-}
+}*/
 
-.userPopout-xaxa6l {
+/*.userPopout-2j1gM4 {
 	width: 250px !important;
-}
-.profileBadges-ohc0Vu {
+}*/
+.profileBadges-2pItdR {
 	display: none;
 }
 
-.headerTagNoNickname-1VyQza.headerTag-16AlQV.nameTag-m8r81H {
+/*.headerTagNoNickname-3tGHj6.headerTag-3GXZkV.nameTag-H6kSJ0 {
     text-align: center;
 }
-.customStatus-oN4ZZY {
+.customStatus-3XAoF9 {
     text-align: center;
-}
+}*/
 
 
 /* Fix Profile Banner 2 */
 
-.banner-2QYc2d.profileBanner-33-uE1 {
+.banner-1YaD3N.profileBanner-33-uE1 { /*NOT FOUND*/
 	background-color: var(--background-floating) !important;
 	height: 80px;
 }
@@ -299,8 +300,15 @@ html
 }*/
 
 
-/* Delete wave feature shit */
+/* delete wave shit */
+.containerCompact-1Jto1O {
+	display: none;
+}
 
-.containerCompact-18xElE {
+.container-JHR0NT { /*NOT FOUND*/
+	display: none;
+}
+
+.containerExpanded-3etgq5 {
 	display: none;
 }
