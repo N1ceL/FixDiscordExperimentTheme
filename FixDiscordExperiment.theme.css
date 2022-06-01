@@ -3,7 +3,7 @@
  * @namespace    OldDiscordTheme
  * @description  This theme was created to backup old discord theme
  * @author       NiceL
- * @version      1.9
+ * @version      2.0
  * @source https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
  * @updateUrl https://raw.githubusercontent.com/N1ceL/FixDiscordExperimentTheme/main/FixDiscordExperiment.theme.css
 **/
@@ -155,18 +155,18 @@ html
 
 /* Fix ugly reactions style*/
 
-/*.reaction-2A2y9y 
+/*.reaction-3vwAF2
 {
 	background: rgba(0,0,0,0.08);
 	border: 0;
 }
-.reaction-2A2y9y.reactionMe-3I9gFK 
+.reaction-2A2y9y.reactionMe-1PwQAc 
 {
 	background: rgba(114,137,218,0.1);
 	border: 0;
 }*/
 
-.reaction-2A2y9y 
+.reaction-3vwAF2
 {
 	border-radius: .2rem;
 	background: #71778222;
@@ -178,17 +178,17 @@ html
 	border: 0;
 }
 
-.reaction-2A2y9y.reactionMe-3I9gFK 
+.reaction-2A2y9y.reactionMe-1PwQAc 
 {
 	background: #6375b044;
 	border: 0;
 }
-.reaction-2A2y9y.reactionMe-3I9gFK:hover
+.reaction-2A2y9y.reactionMe-1PwQAc:hover
 {
 	background: #6375b055;
 	border: 0;
 }
-.reaction-2A2y9y.reactionMe-3I9gFK .reactionCount-1zkLcN {
+.reaction-2A2y9y.reactionMe-1PwQAc .reactionCount-26U4As {
 	color: var(--brand-experiment-400);
 }
 
