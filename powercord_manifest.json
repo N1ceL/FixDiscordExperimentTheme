@@ -1,0 +1,8 @@
+{
+	"name": "Fix New Discord Experiment Theme",
+	"description": "This theme was created to backup old discord theme.",
+	"version": "2.0",
+	"author": "NiceL",
+	"theme": "FixDiscordExperiment.theme.css",
+	"license": "unknown"
+}
